@@ -1,0 +1,4 @@
+repository "Snake_game/Snake_game@4673972285847@cloud"
+  path "/"
+    br "/main"
+    co "/main"
